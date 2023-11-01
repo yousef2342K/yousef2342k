@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
-<!--
-**yousef2342K/yousef2342k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="[https://your-profile-picture-url.com](https://th.bing.com/th/id/R.44c5281ffd522ae12ccaf2979de9205a?rik=F15C%2fxlx43TaKA&pid=ImgRaw&r=0)" alt="Profile Picture" width="200" height="200">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hi, I'm Youssif Khalid, a passionate Computer Science student and technology enthusiast.
+  <br>
+  Let's connect and collaborate on exciting projects!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Skills
+
+- Programming Languages: C++, Python, Java , dart
+- Web Development: HTML, CSS, React
+- Databases: SQL
+- RDBMS : MySQL - PostgresSQL
+- Machine Learning: TensorFlow, scikit-learn
+- Cloud Platforms: AWS, Azure
+- Docker / Git / Distributed and parallel Systems
+
+<br>
+
+## Connect with Me
+
+- LinkedIn: (https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/youssif-khalid2004/)
+- Facebook meta : (https://www.facebook.com/profile.php?id=100011364574715)
+
+<br>
+
