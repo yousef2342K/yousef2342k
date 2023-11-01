@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp9237213.jpg" alt="Profile Picture" width="200" height="200">
+  <img src="[https://wallpapercave.com/wp/wp9237213.jpg](https://zalameh.files.wordpress.com/2018/01/ourquds.png)" alt="Profile Picture" width="200" height="200">
 </p>
 
 <p align="center">
