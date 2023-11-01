@@ -16,7 +16,6 @@
 
 - Programming Languages: C++, Python, Java , dart
 - Web Development: HTML, CSS, React
-- Databases: SQL
 - RDBMS : MySQL - PostgresSQL
 - Machine Learning: TensorFlow, scikit-learn
 - Cloud Platforms: AWS, Azure
